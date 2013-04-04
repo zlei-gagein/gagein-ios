@@ -18,7 +18,7 @@
     [self.window makeKeyAndVisible];
     NSLog(@"xxx");
     NSLog(@"Test git");
-    NSLog(@"Test git too");
+    NSLog(@"Test git too 11");
     return YES;
 }
 
