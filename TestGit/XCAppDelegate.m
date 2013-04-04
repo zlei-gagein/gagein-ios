@@ -17,7 +17,7 @@
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
     
-    
+    NSLog(@"Test git");
     return YES;
 }
 
